@@ -1,1 +1,1 @@
-# Machine-Learning - Group - 3
+ỨNG DỤNG GINI INDEX VÀ KỸ THUẬT PRUNING TRONG MÔ HÌNH CÂY QUYẾT ĐỊNH ĐỂ DỰ ĐOÁN HÀNH VI MUA HÀNG CỦA KHÁCH HÀNG
